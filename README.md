@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yanicksenn
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning python and kotlin
+- 🏎 Using mostly Java, Kotlin, Python and C#
+- 🏢 Working as a professional software engineer since 2016
 - 📫 DM me on twitter
 
 <!---
