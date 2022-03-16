@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yanicksenn
 - 🏎 Using mostly Java, Kotlin and C#
 - 🏢 Working as a professional software engineer since 2016
-- 📫 DM me on twitter
 
 <!---
 yanicksenn/yanicksenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
