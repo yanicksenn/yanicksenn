@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yanicksenn
-- 🏎 Using mostly Java, Kotlin, Python and C#
+- 🏎 Using mostly Java, Kotlin and C#
 - 🏢 Working as a professional software engineer since 2016
 - 📫 DM me on twitter
 
