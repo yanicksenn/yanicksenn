@@ -1,15 +1,14 @@
-I am a software engineer based in switzerland.
+## I am a software engineer who likes to engineer software.
 
 ### Languages I use
 
-- Java, Kotlin
-- C#
-- JavaScript, TypeScript
-- Go
+- Kotlin, Java, C#, TypeScript, JavaScript
 
 ### Things I want to build
 
 - Local [information retrieval system](https://github.com/yanicksenn/mini-retrieval) for various data types (textfiles, pdfs, etc.).
+- Hello, World! - with [gRPC](https://github.com/grpc/grpc) and [protobuf](https://github.com/protocolbuffers/protobuf) ...
+  - ... [Guice](https://github.com/google/guice) (or Dagger) and [Truth](https://github.com/google/truth)
 - Templating system that replaces variables in files and folders.
 - Unity-Files to create, read, and update persistent files in the unity eco-system.
 - Unity-Persistence to load and store complex objects at runtime
