@@ -7,15 +7,9 @@ I am a software engineer based in switzerland.
 - JavaScript, TypeScript
 - Go
 
-### Quotes I like
-
-> Deploying as fast as possible but as slow as necessary
-
-> Life is short and hard drives are slow
-
 ### Things I want to build
 
-- Local information retrieval system for various data types (textfiles, pdfs, etc.).
+- Local [information retrieval system](https://github.com/yanicksenn/mini-retrieval) for various data types (textfiles, pdfs, etc.).
 - Templating system that replaces variables in files and folders.
 - Unity-Files to create, read, and update persistent files in the unity eco-system.
 - Unity-Persistence to load and store complex objects at runtime
