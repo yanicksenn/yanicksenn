@@ -7,6 +7,7 @@
 ### Things I want to build
 
 - Local [information retrieval system](https://github.com/yanicksenn/mini-retrieval) for various data types (textfiles, pdfs, etc.).
+- Small [tool](https://github.com/yanicksenn/ssh-keygen-seeded) to generate seeded ssh keypairs.
 - Hello, World! - with [gRPC](https://github.com/grpc/grpc) and [protobuf](https://github.com/protocolbuffers/protobuf) ...
   - ... [Guice](https://github.com/google/guice) (or Dagger) and [Truth](https://github.com/google/truth)
 - Templating system that replaces variables in files and folders.
