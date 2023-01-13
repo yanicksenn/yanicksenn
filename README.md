@@ -2,7 +2,7 @@
 
 ### Employment
 
-- Software engineer, Google Inc., 2022-Now
+- Software engineer, Google LLC, 2022-Now
 - Software engineer, Worldline AG, 2021-2022
 - Software engineer, aXenta AG, 2012-2021
 
