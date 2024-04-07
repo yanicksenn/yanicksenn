@@ -2,9 +2,10 @@
 
 ### Employment
 
-- Software engineer, Google LLC, 2022-Now
-- Software engineer, Worldline AG, 2021-2022
-- Software engineer, aXenta AG, 2012-2021
+- Google LLC, Software engineer II, 2022-Now
+- Worldline SA, Junior software engineer, 2021-2022
+- aXenta AG, Part-time software engineer, 2016-2021
+- aXenta AG, Software engineer apprentice, 2012-2016
 
 ### Education
 
